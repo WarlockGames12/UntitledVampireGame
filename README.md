@@ -6,3 +6,5 @@
 
 Use comments to describe how code work on the regular.
 If something has to be done, which you haven't done yet. use: // TODO: comment
+
+Create an seperate branch to work on your own feature.
