@@ -1,4 +1,4 @@
-## Programming Rules to follow:
+## Coding Conventions:
 
 Variables:
 - Private serialized variables: camelCase
@@ -14,3 +14,8 @@ Feature Branches:
 - Create an seperate branch to work on your own feature.
 - Don't use non serious names for branch names.
 - During spaces, use a - in between, for example: `feature-branch`
+
+Scripts:
+- Don't name the script something unprofessional, for example `otherscript.cs`.
+- Keep the naming of the script tied to the feature you are trying to create.
+- Script names are created with PascalCase.
